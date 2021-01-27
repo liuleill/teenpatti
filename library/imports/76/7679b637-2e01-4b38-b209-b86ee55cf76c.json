@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "splash_mark",
+    "texture": "07864021-7cd0-4345-aba5-f893278b45bd",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      20,
+      78
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      22,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "potchips_bg",
+    "texture": "535b3932-bb51-406e-ab71-f0c9eedd9258",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      20
+    ],
+    "capInsets": [
+      8,
+      7,
+      8,
+      7
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chipspot_1",
+    "texture": "f151f8ea-a499-49fc-93bf-20d919f0c202",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      60,
+      64
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

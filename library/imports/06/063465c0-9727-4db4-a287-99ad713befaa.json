@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_bg_shadow",
+    "texture": "9954df1d-f867-473b-a9d3-e13042b00fab",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      137,
+      177
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      150,
+      190
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cardtype_mask",
+    "texture": "6fb19ac2-fb4c-49d4-9a99-12866014e6c3",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      802,
+      10
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      803,
+      10
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

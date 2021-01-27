@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_wild_2",
+    "texture": "5a0ed1ee-e059-41af-8884-a3454de2b8c1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

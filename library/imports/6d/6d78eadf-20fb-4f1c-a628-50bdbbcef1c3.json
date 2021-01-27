@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_prompt",
+    "texture": "79cef437-22d1-4a75-9924-e76986169a04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      212
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

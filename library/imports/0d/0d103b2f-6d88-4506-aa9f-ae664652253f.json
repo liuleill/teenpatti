@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card_women",
+    "texture": "0f1a43f8-eefd-4eb5-8f78-262ce30463c6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      205
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      206
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

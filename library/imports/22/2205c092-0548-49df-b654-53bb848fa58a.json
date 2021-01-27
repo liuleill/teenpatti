@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "splash_light",
+    "texture": "c6ddfaf6-6edc-474f-b62d-6549d8c743a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      139,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      139,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

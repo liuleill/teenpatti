@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playe_info_bg_2",
+    "texture": "f6bff85c-c7ee-4175-ba8d-bb720dd8b0ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      250,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

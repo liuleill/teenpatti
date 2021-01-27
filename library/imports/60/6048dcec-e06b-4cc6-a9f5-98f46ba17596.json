@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "winner",
+    "texture": "3bccbe58-3342-4779-b2b3-b36517cb0698",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      261,
+      91
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      265,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

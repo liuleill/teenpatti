@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playerdealerbtn",
+    "texture": "b4f9787e-13c9-4a9f-9f2a-7d8eb3da50b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      39,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

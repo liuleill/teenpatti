@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_head_bg_mask",
+    "texture": "e8c0db95-c467-45c2-af6b-9cda3f28ea12",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
