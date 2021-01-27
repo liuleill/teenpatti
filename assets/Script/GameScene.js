@@ -1,5 +1,5 @@
 //import defines from './define'
-//import cardnode from './card-node'
+import cardnode from './card-node'
 
 const BAOZI = 60;       //豹子
 const COLORSEQ = 50;    //同花顺
